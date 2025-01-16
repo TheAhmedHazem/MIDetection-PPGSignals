@@ -1,0 +1,6 @@
+/.conda
+dump.ipynb
+*.csv
+*.zip
+Claude's Generated Code.txt
+*.png
