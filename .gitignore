@@ -1,6 +1,8 @@
-/.conda
+/ppg_proj
+/ppg_results
 dump.ipynb
 *.csv
 *.zip
 Claude's Generated Code.txt
 *.png
+*.rs
